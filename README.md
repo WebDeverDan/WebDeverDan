@@ -1,4 +1,4 @@
-<p align="center" font-weight="bold" font-size="25pt">Welcome! ¡Bienvenidos! 오서어세요!</p>
+## Welcome! ¡Bienvenidos! 오서어세요!
 
 ____________________________ 
 
