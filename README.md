@@ -1,16 +1,13 @@
 <p align="center" font-weight="bold" >Welcome! ¡Bienvenidos! 오서어세요!</p>
 
-
-
-
-
+____________________________
 
 <a href="https://github.com/WebDeverDan/WebDeverDan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeverDan&show=java,html,css,node.js,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1116&border_color=57A6FF&langs_count=4" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeverDan&show=java,html,css,node.js,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1116&border_color=57A6FF&langs_count=4" />
 </a>
 
 <a href="https://github.com/WebDeverDan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WebDeverDan&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Daniel's Github Statistics"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WebDeverDan&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Daniel's Github Statistics"/>
 </a>
 
 
