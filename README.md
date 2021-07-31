@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/80656518?s=60&v=4">
 
 <a href="https://github.com/WebDeverDan/WebDeverDan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeverDan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeverDan&show=java,html,css,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/WebDeverDan">
