@@ -10,9 +10,18 @@ ____________________________
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=WebDeverDan&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=57A6FF&bg_color=0D1116&border_color=57A6FF" alt="Daniel's Github Statistics"/>
 </a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-**WebDeverDan/WebDeverDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+____________________________ 
 
 Some info about me~ 
 
@@ -21,5 +30,4 @@ Some info about me~
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> https://www.linkedin.com/in/daniel-bradley-31193381/
 - ⚡ Fun fact: I still rollerblade....even after all this time! 
--->
 
