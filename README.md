@@ -11,19 +11,15 @@ ____________________________
 </a>
 
 
-<!--
+
 **WebDeverDan/WebDeverDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Some info about me~ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning JavaScript and Node.js.
+- 👯 I’m looking to collaborate on visually-inspiring projects. 
+- 💬 Ask me about my welcome message :) 
+- 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> https://www.linkedin.com/in/daniel-bradley-31193381/
+- ⚡ Fun fact: I still rollerblade....even after all this time! 
 -->
-<!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
- -->
+
