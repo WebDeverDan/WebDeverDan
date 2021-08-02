@@ -25,7 +25,7 @@ ____________________________
 
 Some info about me~ 
 
-- 🌱 I’m currently learning JavaScript and Node.js.
+- 🌱 I’m currently learning Node.js and back-end programming.
 - 👯 I’m looking to collaborate on visually-inspiring projects. 
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
