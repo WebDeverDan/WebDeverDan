@@ -23,7 +23,7 @@ ____________________________
 
 ____________________________ 
 
-##Some info about me~ 
+## Some info about me~ 
 
 - 🌱 I’m currently learning Node.js and back-end programming.
 - 👯 I’m looking to collaborate on visually-inspiring projects. 
