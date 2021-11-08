@@ -22,7 +22,7 @@ ____________________________
 
 ## Some info about me~ 
 
-- 👯 I’m looking to collaborate on visually-inspiring projects. 
+- :wave: I’m looking to collaborate on visually-inspiring projects. 
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 
