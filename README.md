@@ -22,7 +22,7 @@ ____________________________
 
 ## Some info about me~ 
 
-- :wave: I’m looking to collaborate on visually-inspiring projects. 
+- :wave: Currently working on a roller skate trail/spot and group directory. 
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 
