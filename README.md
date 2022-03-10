@@ -22,7 +22,7 @@ ____________________________
 
 ## Some info about me~ 
 
-- :wave: Currently working on a roller skate trail/spot and group directory! Target date of v1.0.0 is May 01, 2022.  
+- :wave: Currently working on a roller skate/blade skate trail directory and community site! Target date for beta release is Summer of 2022. 
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 
