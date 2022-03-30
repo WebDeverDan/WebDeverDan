@@ -23,7 +23,7 @@ ____________________________
 
 ## Some info about me~ 
 
-- :wave: Currently working on a roller skate/blade skate trail directory and community site built with Ruby on Rails!  
+- :wave: Currently working on a roller skate/blade skate trail directory and community site (and mobile app) built with Ruby on Rails!  
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 
