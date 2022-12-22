@@ -19,7 +19,7 @@ ____________________________
 
 ## Some info about me~ 
 
-- :wave: Currently working on a roller skate/blade skate trail directory and community site (and mobile app) built with Ruby on Rails!
+- :wave: Currently working in the textile manufacturing industry as a Ruby on Rails developer
 - :goat: Future projects include maintaining the deployed skate app and a digital mineral collection (digital display case).
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
