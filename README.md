@@ -19,8 +19,8 @@ ____________________________
 
 ## Some info about me~ 
 
-- :wave: Currently working in the textile manufacturing industry as a Ruby on Rails developer
-- :goat: Future projects include maintaining the deployed skate app and a digital mineral collection (digital display case).
+- :wave: Currently working in the solar industry as a Salesforce developer
+- :goat: Future projects include a digital mineral collection (digital display case) and various Ruby apps.
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 - ⚡ Fun fact: I still rollerblade....even after all this time! 
