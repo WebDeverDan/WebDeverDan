@@ -1,7 +1,6 @@
 
 <h1 align='center'><strong>Welcome! ¡Bienvenidos! 오서어세요!</strong></h1>
 
-____________________________ 
 <!-- <div align='center'>
 <a href="https://github.com/WebDeverDan/WebDeverDan">
   
@@ -13,9 +12,6 @@ ____________________________
  </div -->
 <br>
 <br>
-
-
-____________________________ 
 
 ## Some info about me~ 
 
