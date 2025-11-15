@@ -18,6 +18,7 @@
 - ⚡ Fun fact: I still rollerblade....even after all this time! 
 
 ## ~ Some Projects I've Built ~
+
 I believe in making useful applications that solve our everyday problems. Through family member or friend requests, I've made some nifty and fun tools for a variety of purposes.
 
 - Houndin' Around - A personalized AI-Assisted rockhounding spot recommendation app: https://houndin-around.onrender.com/
