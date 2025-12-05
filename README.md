@@ -12,7 +12,7 @@
 ## Some Info About Me
 
 - :wave: Currently working in the solar industry as a Salesforce developer
-- :goat: Future projects include a digital mineral collection (digital display case) and various Ruby apps.
+- :goat: Future projects include a digital mineral collection (digital display case) and various Rails ans React apps.
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 - ⚡ Fun fact: I still rollerblade....even after all this time! 
