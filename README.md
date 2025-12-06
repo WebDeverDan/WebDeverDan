@@ -1,5 +1,7 @@
 
 <h1 align='center'><strong>Welcome! ¡Bienvenidos! 오서어세요!</strong></h1>
+This is a page for passion projects and experiments. Please reach out for professional work examples! 
+
 <!-- <div align='center'>
 <a href="https://github.com/WebDeverDan/WebDeverDan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeverDan&show=tex&title_color=57A6FF&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1116&border_color=57A6FF" />
