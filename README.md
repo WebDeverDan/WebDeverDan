@@ -14,7 +14,7 @@ This is a page for passion projects and experiments. Please reach out for profes
 ## Some Info About Me
 
 - :wave: Currently working in the solar industry as a Salesforce developer
-- :computer: Main passion project now is an API-driven CMS for cemetery and columbarium administration - EOY 2025 Release
+- :computer: Main passion project now is an API-driven and scalable CMS for organization cemetery and columbarium administration and knowledge share - EOY 2025 Release
 - :goat: Future projects include a digital mineral collection (digital display case) and various Rails and React apps.
 - 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
