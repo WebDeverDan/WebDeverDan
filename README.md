@@ -23,9 +23,9 @@ This is a page for passion projects and experiments. Please reach out for profes
 ## Some Projects I've Built
 
 I believe in making useful applications that solve our everyday problems. I've made some nifty and fun tools for a variety of purposes.
-- Houndin' Around - A personalized AI-Assisted rockhounding spot recommendation app: https://houndin-around.onrender.com/
+- Houndin' Around - A personalized AI-Assisted rockhounding spot recommendation app: https://houndin-around.vercel.app/
 - Baked Goods Pricing Calculator (because you deserve to get paid for what you do!): https://webdeverdan.github.io/baker-cost-profit-calculator/
-- Recreation.gov Campsite Finder (a great place to start!): https://webdeverdan.github.io/campsite-availabilty-checker/
+- Recreation.gov Campsite Finder (a great place to start!): https://campsite-availabilty-checker.vercel.app/
 - Should I Skate Today? (sometimes the motivation just isn't there): https://webdeverdan.github.io/ShouldISkateToday/
 
 
