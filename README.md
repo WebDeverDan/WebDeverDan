@@ -17,7 +17,6 @@ This is a page for passion projects and experiments. Please reach out for profes
 - :wave: Currently developing a project management application for personal use (future focus is enterprise use)
 - :computer: Honing in on deploying an API-driven and scalable CMS for organization cemetery and columbarium administration and knowledge share
 - :goat: Future projects include a digital mineral collection (digital display case) and various Rails and React apps
-- 💬 Ask me about my welcome message :) 
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
 - ⚡ Fun fact: I still rollerblade....even after all this time! 
 
