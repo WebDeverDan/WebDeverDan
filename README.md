@@ -1,6 +1,6 @@
 
 <h1 align='center'><strong>Welcome! ¡Bienvenidos! 오서어세요!</strong></h1>
-This is a page for passion projects and experiments. Please reach out for professional work examples! 
+This is a page for passion projects and experiments. Please reach out for professional work examples. 
 
 <!-- <div align='center'>
 <a href="https://github.com/WebDeverDan/WebDeverDan">
