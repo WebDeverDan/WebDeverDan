@@ -14,7 +14,7 @@ This is a page for passion projects and experiments. Please reach out for profes
 ## Some Info About Me
 
 - 💬 Ask me about my welcome message :) 
-- :wave: Currently developing a project management application for personal use (future focus is enterprise use)
+- :wave: Currently developing a templated project management application for personal and team use
 - :computer: Honing in on deploying an API-driven and scalable CMS for organization cemetery and columbarium administration and knowledge share
 - :goat: Future projects include a digital mineral collection (digital display case) and various Rails and React apps
 - 📫 How to reach me: email -> danielbvideo@gmail.com or linkedIn -> www.linkedin.com/in/daniel-bradley828
@@ -22,7 +22,7 @@ This is a page for passion projects and experiments. Please reach out for profes
 
 ## Some Projects I've Built
 
-I believe in making useful applications that solve our everyday problems. I've made some nifty and fun tools for a variety of purposes.
+I believe in making useful applications that solve our everyday problems. Here are some useful and fun tools that I've completed:
 - Houndin' Around - A personalized AI-Assisted rockhounding spot recommendation app: https://houndin-around.vercel.app/
 - Baked Goods Pricing Calculator (because you deserve to get paid for what you do!): https://webdeverdan.github.io/baker-cost-profit-calculator/
 - Recreation.gov Campsite Finder (a great place to start!): https://campsite-availabilty-checker.vercel.app/
